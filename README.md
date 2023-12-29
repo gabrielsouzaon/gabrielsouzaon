@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gabrielsouzaon
+- 👀 I’m interested in realization
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on ALL
+- 📫 How to reach me INSTAGRAM/@GABRIELSOUZAON
