@@ -5,6 +5,8 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsouzaon&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouzaon&hide_progress=true)
+
 ## Minhas tecnologias e ferramentas favoritas!
 
 <div style = "display: inline_block"><br/>
