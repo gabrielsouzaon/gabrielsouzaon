@@ -1,6 +1,5 @@
 ### Olá, Sou Gabriel Souza! 💡
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielsouzaon/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsouzaon/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsouzaon&show_icons=true&theme=dark)
