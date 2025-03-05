@@ -26,15 +26,15 @@ Sou um **Desenvolvedor Backend** apaixonado por criar soluções escaláveis e e
 ## 🚀 **Habilidades (Backend)**  
 <table>
   <tr>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/PYTHON _ LOGO SOUZA.png" width="50" height="50"/><br>Python</td>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/JAVA _ LOGO SOUZA.png" width="50" height="60"/><br>Java</td>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/JS _ LOGO SOUZA.png" width="50" height="50"/><br>JavaScript (Node.js)</td>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/C++ _ LOGO SOUZA.png" width="50" height="55"/><br>C++</td>
+    <td align="center"><img src="IMAGEM/PYTHON _ LOGO SOUZA.png" width="50" height="50"/><br>Python</td>
+    <td align="center"><img src="IMAGEM/JAVA _ LOGO SOUZA.png" width="50" height="60"/><br>Java</td>
+    <td align="center"><img src="IMAGEM/JS _ LOGO SOUZA.png" width="50" height="50"/><br>JavaScript</td>
+    <td align="center"><img src="IMAGEM/C++ _ LOGO SOUZA.png" width="50" height="55"/><br>C++</td>
   </tr>
   <>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/MYSQL _ LOGO SOUZA.png" width="50" height="50"/><br>MySQL</td>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/POSTGRESQL _ LOGO SOUZA.png" width="50" height="50"/><br>PostgreSQL</td>
-    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/GIT _ LOGO SOUZA.png" width="50" height="50"/><br>Git</td>
+    <td align="center"><img src="IMAGEM/MYSQL _ LOGO SOUZA.png" width="50" height="50"/><br>MySQL</td>
+    <td align="center"><img src="IMAGEM/POSTGRESQL _ LOGO SOUZA.png" width="50" height="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="IMAGEM/GIT _ LOGO SOUZA.png" width="50" height="50"/><br>Git</td>
   </tr>
 </table>
 
