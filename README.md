@@ -1,38 +1,50 @@
-### Olá, Sou  
-# Gabriel Souza! 💡
+# Olá, sou **Gabriel Souza**! 
 
+Sou um **Desenvolvedor Backend** apaixonado por criar soluções escaláveis e eficientes. Focado em **Python, Java, C++**, e **bancos de dados** como **MySQL** e **PostgreSQL**, sempre em busca de evoluir e melhorar minhas habilidades.
+
+🔧 **Tecnologias que domino**:
+- **Linguagens de Programação**: Python, Java, C++, JavaScript
+- **Banco de Dados**: MySQL, PostgreSQL
+- **Versionamento de Código**: Git, GitHub
+
+## 🖥 **Sistema Operacional e Ferramentas**
+- **Sistema Operacional**: Windows 11
+- **IDE**: Visual Studio Code, Eclipse
+- **Editor de Texto**: VS Code
+- **Terminal**: Git Bash
+
+## 🟣 **GitHub Stats**
+![Stats](https://github-readme-stats.vercel.app/api?username=gabrielsouzaon&show_icons=true&theme=radical)
+
+## 🟣 **Redes Sociais** 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielsoual/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsouzaon/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsouzaon)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@gabrielsoual)
 
-## 🚀 Sobre Mim
-Desenvolver é mais do que um trabalho, é uma paixão por transformar ideias em realidade e soluções em experiências.
+
+## 🚀 **Habilidades (Backend)**  
+<table>
+  <tr>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/PYTHON _ LOGO SOUZA.png" width="50" height="50"/><br>Python</td>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/JAVA _ LOGO SOUZA.png" width="50" height="60"/><br>Java</td>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/JS _ LOGO SOUZA.png" width="50" height="50"/><br>JavaScript (Node.js)</td>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/C++ _ LOGO SOUZA.png" width="50" height="55"/><br>C++</td>
+  </tr>
+  <>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/MYSQL _ LOGO SOUZA.png" width="50" height="50"/><br>MySQL</td>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/POSTGRESQL _ LOGO SOUZA.png" width="50" height="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="IMAGEM/LOGO TECNOLOGIAS/GIT _ LOGO SOUZA.png" width="50" height="50"/><br>Git</td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Habilidades
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" title="Java" alt="Git" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60"/>
-    <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" title="BootStrap" alt="BootStrap" width="60" height="60"/>
-</div>
-
----
-
-## 📊 GitHub Stats
+## **GitHub Stats**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsouzaon&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouzaon&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsouzaon&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouzaon&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
----
-
-### 💬 Quer falar comigo?
-📩 Me chama no [Instagram](https://www.instagram.com/gabrielsoual/) ou [LinkedIn](https://www.linkedin.com/in/gabrielsouzaon/)! 😃
+## 📩 **Vamos Conversar?**
+Me manda uma mensagem no **[Instagram](https://www.instagram.com/gabrielsoual/) ou [LinkedIn](https://www.linkedin.com/in/gabrielsouzaon/)!**
