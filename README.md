@@ -1,17 +1,6 @@
 # Olá, sou **Gabriel Souza**! 
 
-Sou um **Desenvolvedor Backend** apaixonado por criar soluções escaláveis e eficientes. Focado em **Python, Java, C++**, e **bancos de dados** como **MySQL** e **PostgreSQL**, sempre em busca de evoluir e melhorar minhas habilidades.
-
-🔧 **Tecnologias que domino**:
-- **Linguagens de Programação**: Python, Java, C++, JavaScript
-- **Banco de Dados**: MySQL, PostgreSQL
-- **Versionamento de Código**: Git, GitHub
-
-## 🖥 **Sistema Operacional e Ferramentas**
-- **Sistema Operacional**: Windows 11
-- **IDE**: Visual Studio Code, Eclipse
-- **Editor de Texto**: VS Code
-- **Terminal**: Git Bash
+Sou um **Desenvolvedor** apaixonado por criar soluções escaláveis e eficientes. Focado em **Python, Java, C++**, e **bancos de dados** como **MySQL** e **PostgreSQL**, sempre em busca de evoluir e melhorar minhas habilidades.
 
 ## 🟣 **GitHub Stats**
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabrielsouzaon&show_icons=true&theme=radical)
@@ -23,20 +12,37 @@ Sou um **Desenvolvedor Backend** apaixonado por criar soluções escaláveis e e
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@gabrielsoual)
 
 
-## 🚀 **Habilidades (Backend)**  
-<table>
-  <tr>
-    <td align="center"><img src="IMAGEM/PYTHON _ LOGO SOUZA.png" width="50" height="50"/><br>Python</td>
-    <td align="center"><img src="IMAGEM/JAVA _ LOGO SOUZA.png" width="50" height="60"/><br>Java</td>
-    <td align="center"><img src="IMAGEM/JS _ LOGO SOUZA.png" width="50" height="50"/><br>JavaScript</td>
-    <td align="center"><img src="IMAGEM/C++ _ LOGO SOUZA.png" width="50" height="55"/><br>C++</td>
-  </tr>
-  <>
-    <td align="center"><img src="IMAGEM/MYSQL _ LOGO SOUZA.png" width="50" height="50"/><br>MySQL</td>
-    <td align="center"><img src="IMAGEM/POSTGRESQL _ LOGO SOUZA.png" width="50" height="50"/><br>PostgreSQL</td>
-    <td align="center"><img src="IMAGEM/GIT _ LOGO SOUZA.png" width="50" height="50"/><br>Git</td>
-  </tr>
-</table>
+## 🚀 **Habilidades**  
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="IMAGEM/python-simple.png" width="40" height="40"/><br>
+    <span>Python</span>
+  </div>
+  <div>
+    <img src="IMAGEM/java-simple.png" width="40" height="40"/><br>
+    <span>Java</span>
+  </div>
+  <div>
+    <img src="IMAGEM/js-simple.png" width="40" height="40"/><br>
+    <span>JavaScript</span>
+  </div>
+  <div>
+    <img src="IMAGEM/cpp-simple.png" width="40" height="40"/><br>
+    <span>C++</span>
+  </div>
+  <div>
+    <img src="IMAGEM/mysql-simple.png" width="40" height="40"/><br>
+    <span>MySQL</span>
+  </div>
+  <div>
+    <img src="IMAGEM/postgresql-simple.png" width="40" height="40"/><br>
+    <span>PostgreSQL</span>
+  </div>
+  <div>
+    <img src="IMAGEM/git-simple.png" width="40" height="40"/><br>
+    <span>Git</span>
+  </div>
+</div>
 
 ---
 
