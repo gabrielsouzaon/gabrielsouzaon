@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Gabriel Souza**  
 
-I'm a passionate **Developer** focused on building scalable and efficient solutions. I specialize in **Python**, **Java**, **C++**, and databases like **PostgreSQL**. Always learning, always growing.
+I am a passionate developer focused on creating scalable and efficient solutions. I utilize technologies such as Python, Java, C++, and databases like PostgreSQL. Always learning, always growing.
 
 ---
 
