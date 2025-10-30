@@ -18,20 +18,10 @@ Sempre aprendendo, testando e evoluindo.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
-
----
-
-## 🧠 **What I Do**
-
-- 🖥️ **Front-End Development** — interfaces rápidas, responsivas e modernas.  
-- 🎨 **UI Design & Prototyping** — layouts criativos e intuitivos no **Figma**.  
-- ⚙️ **UX Thinking** — foco total na experiência do usuário e na fluidez da navegação.  
-- 🧩 **Brand + Code Integration** — coerência entre identidade visual e produto digital.
 
 ---
 
