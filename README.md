@@ -1,9 +1,9 @@
 # 👋 Hey, I'm **Gabriel Souza**
 
-**Front-End Developer & UI/UX Designer**  
+**Front-End Developer | UI/UX Designer**  
 
 Apaixonado por transformar ideias em interfaces envolventes, intuitivas e funcionais.  
-Busco unir **estética e código** — criando experiências digitais que conectam pessoas e marcas.  
+Busco unir **estética e código** criando experiências digitais que conectam pessoas e marcas.  
 
 Foco em design centrado no usuário, prototipagem criativa e desenvolvimento com boas práticas modernas.  
 Sempre aprendendo, testando e evoluindo.
