@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Gabriel Souza**
+# 👋 Hey, I'm **Gabriel**
 
 **Front-End Developer | UI/UX Designer**  
 
